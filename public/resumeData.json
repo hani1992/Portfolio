@@ -12,23 +12,13 @@
       "city": "Nablus",
       "state": "Palesting"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://github.com/hani1992",
+    "resumedownload": "./cv/Hani Hinnawi CV ,Computer Science.pdf",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/hani.hinnawi/",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/hanihinnawi/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/hani.hinnawi/",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
